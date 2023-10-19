@@ -1,12 +1,3 @@
----
-name: user-info
-# about: user info in cities
-title: 'usersinfo'
-labels: 'data'
-assignees: 'pavankumar0077'
-
----
-
 name: Bug Report
 description: File a bug report
 title: "[Bug]: "
